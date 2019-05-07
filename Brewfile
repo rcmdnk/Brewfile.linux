@@ -15,6 +15,7 @@ brew gdbm
 brew gettext
 brew ghq
 brew git
+brew glibc
 brew gmp
 brew go
 brew gpatch
@@ -53,7 +54,6 @@ brew screen
 brew sqlite
 brew sshrc
 brew texinfo
-brew tmux
 brew unibilium
 brew unzip
 brew vim
