@@ -11,7 +11,6 @@ brew cmake
 brew curl
 brew expat
 brew gcc
-brew gcc@6
 brew gdbm
 brew gettext
 brew ghq
@@ -22,17 +21,13 @@ brew go
 brew gpatch
 brew gperf
 brew hub
-brew isl
 brew isl@0.18
 brew jemalloc
 brew libbsd
 brew libevent
 brew libffi
-brew libidn2
 brew libmpc
 brew libtermkey
-brew libtool
-brew libunistring
 brew libuv
 brew libvterm
 brew libyaml
@@ -42,7 +37,6 @@ brew lua@5.1
 brew luajit
 brew luarocks
 brew m4
-brew mosh
 brew mpfr
 brew msgpack
 brew ncurses
@@ -52,32 +46,26 @@ brew patchelf --with-static
 brew pcre2
 brew perl
 brew pkg-config
-brew protobuf
 brew python
 brew python@2
 brew readline
 brew ruby
 brew screen
-brew sl
-brew sphinx-doc
 brew sqlite
 brew sshrc
 brew texinfo
 brew tmux
 brew unibilium
 brew unzip
-brew util-linux
 brew vim
 brew wdiff
-brew wget
 brew xz
 brew zlib
 
 tap homebrew/cask
 
-tap linuxbrew/extra
+tap cjbassi/gotop
+brew gotop
 
 tap rcmdnk/file
 brew brew-file
-
-tap rcmdnk/rcmdnkpac
