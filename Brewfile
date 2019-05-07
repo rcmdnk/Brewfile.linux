@@ -5,17 +5,14 @@ tap homebrew/core
 brew autoconf
 brew automake
 brew berkeley-db
-brew binutils
 brew bzip2
 brew cmake
 brew curl
 brew expat
-brew gcc
 brew gdbm
 brew gettext
 brew ghq
 brew git
-brew glibc
 brew gmp
 brew go
 brew gpatch
@@ -61,8 +58,6 @@ brew vim
 brew wdiff
 brew xz
 brew zlib
-
-tap homebrew/cask
 
 tap cjbassi/gotop
 brew gotop
