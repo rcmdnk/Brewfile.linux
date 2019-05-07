@@ -10,12 +10,11 @@ brew bzip2
 brew cmake
 brew curl
 brew expat
-brew gcc
+brew gcc --without-glibc
 brew gdbm
 brew gettext
 brew ghq
 brew git
-brew glibc
 brew gmp
 brew go
 brew gpatch
