@@ -10,7 +10,6 @@ brew bzip2
 brew cmake
 brew curl
 brew expat
-brew gcc --without-glibc
 brew gdbm
 brew gettext
 brew ghq
