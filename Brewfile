@@ -10,6 +10,7 @@ brew bzip2
 brew cmake
 brew curl
 brew expat
+brew gcc --without-glibc
 brew gdbm
 brew gettext
 brew ghq
@@ -58,6 +59,7 @@ brew unzip
 brew vim
 brew wdiff
 brew xz
+brew yank
 brew zlib
 
 tap homebrew/cask
@@ -67,3 +69,6 @@ brew gotop
 
 tap rcmdnk/file
 brew brew-file
+
+tap rcmdnk/rcmdnkpac
+brew smenu
