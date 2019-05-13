@@ -15,7 +15,6 @@ brew gdbm
 brew gettext
 brew ghq
 brew git
-brew glibc
 brew gmp
 brew go
 brew gpatch
