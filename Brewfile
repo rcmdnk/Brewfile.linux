@@ -41,7 +41,7 @@ brew msgpack
 brew ncurses
 brew neovim
 brew openssl
-brew patchelf --with-static
+brew patchelf
 brew pcre2
 brew perl
 brew pkg-config
