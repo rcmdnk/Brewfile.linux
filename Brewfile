@@ -50,6 +50,7 @@ brew python@2
 brew readline
 brew ruby
 brew screen
+brew sl
 brew sqlite
 brew sshrc
 brew texinfo
