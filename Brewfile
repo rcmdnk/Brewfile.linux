@@ -27,6 +27,7 @@ brew libevent
 brew libffi
 brew libmpc
 brew libtermkey
+brew libtool
 brew libuv
 brew libvterm
 brew libyaml
@@ -51,6 +52,7 @@ brew readline
 brew ruby
 brew screen
 brew sl
+brew sphinx-doc
 brew sqlite
 brew sshrc
 brew texinfo
