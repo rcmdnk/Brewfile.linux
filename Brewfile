@@ -6,10 +6,13 @@ brew autoconf
 brew automake
 brew berkeley-db
 brew binutils
+brew bison
 brew bzip2
 brew cmake
 brew curl
+brew doxygen
 brew expat
+brew flex
 brew gcc --without-glibc
 brew gdbm
 brew gettext
@@ -19,6 +22,7 @@ brew gmp
 brew go
 brew gpatch
 brew gperf
+brew help2man
 brew hub
 brew isl@0.18
 brew jemalloc
