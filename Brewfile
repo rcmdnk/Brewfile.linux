@@ -56,6 +56,7 @@ brew libffi
 brew libgcrypt
 brew libgpg-error
 brew libidn
+brew libidn2
 brew libksba
 brew libmpc
 brew libpng
