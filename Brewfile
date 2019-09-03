@@ -89,6 +89,7 @@ brew nettle
 brew ninja
 brew npth
 brew openssl
+brew openssl@1.1
 brew p11-kit
 brew patchelf
 brew pcre
