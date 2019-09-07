@@ -38,6 +38,7 @@ brew gobject-introspection
 brew gpatch
 brew gperf
 brew graphviz
+brew groff
 brew gts
 brew guile
 brew help2man
