@@ -10,6 +10,7 @@ brew bdw-gc
 brew berkeley-db
 brew binutils
 brew bison
+brew byacc
 brew bzip2
 brew cairo
 brew cmake
