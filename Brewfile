@@ -61,11 +61,13 @@ brew libidn
 brew libidn2
 brew libksba
 brew libmpc
+brew libnsl
 brew libpng
 brew libsecret
 brew libtasn1
 brew libtermkey
 brew libtiff
+brew libtirpc
 brew libtool
 brew libunistring
 brew libusb
