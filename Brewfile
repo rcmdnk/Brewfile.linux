@@ -92,7 +92,6 @@ brew netpbm
 brew nettle
 brew ninja
 brew npth
-brew openssl
 brew openssl@1.1
 brew p11-kit
 brew patchelf
@@ -147,3 +146,6 @@ brew brew-file
 
 tap rcmdnk/rcmdnkpac
 brew smenu
+
+# Other Homebrew packages
+brew openssl
