@@ -146,6 +146,3 @@ brew brew-file
 
 tap rcmdnk/rcmdnkpac
 brew smenu
-
-# Other Homebrew packages
-brew openssl
