@@ -32,7 +32,6 @@ brew git
 brew glib
 brew gmp
 brew gnu-sed
-brew gnupg
 brew gnutls
 brew go
 brew gobject-introspection
@@ -63,14 +62,12 @@ brew libksba
 brew libmpc
 brew libnsl
 brew libpng
-brew libsecret
 brew libtasn1
 brew libtermkey
 brew libtiff
 brew libtirpc
 brew libtool
 brew libunistring
-brew libusb
 brew libuv
 brew libvterm
 brew libxml2
@@ -98,7 +95,6 @@ brew patchelf
 brew pcre
 brew pcre2
 brew perl
-brew pinentry
 brew pixman
 brew pkg-config
 brew python
@@ -110,7 +106,6 @@ brew sl
 brew sphinx-doc
 brew sqlite
 brew sshrc
-brew systemd
 brew texinfo
 brew unbound
 brew unibilium
