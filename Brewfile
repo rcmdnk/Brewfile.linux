@@ -12,6 +12,7 @@ brew binutils
 brew bison
 brew byacc
 brew bzip2
+brew cabal-install
 brew cairo
 brew cmake
 brew coreutils
@@ -27,6 +28,7 @@ brew gcc --without-glibc
 brew gd
 brew gdbm
 brew gettext
+brew ghc
 brew ghq
 brew git
 brew glib
@@ -44,6 +46,7 @@ brew guile
 brew help2man
 brew hub
 brew intltool
+brew isl
 brew isl@0.18
 brew jasper
 brew jemalloc
@@ -140,4 +143,5 @@ tap rcmdnk/file
 brew brew-file
 
 tap rcmdnk/rcmdnkpac
+brew rcmdnk-gcc@8 --without-glibc
 brew smenu
