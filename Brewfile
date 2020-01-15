@@ -25,6 +25,7 @@ brew flex
 brew fontconfig
 brew freetype
 brew gcc --without-glibc
+brew gcc@8 --without-glibc
 brew gd
 brew gdbm
 brew gettext
@@ -143,5 +144,4 @@ tap rcmdnk/file
 brew brew-file
 
 tap rcmdnk/rcmdnkpac
-brew rcmdnk-gcc@8 --without-glibc
 brew smenu
