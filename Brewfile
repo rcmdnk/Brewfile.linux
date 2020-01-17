@@ -25,6 +25,8 @@ brew flex
 brew fontconfig
 brew freetype
 brew gcc --without-glibc
+brew gcc@6
+brew gcc@7
 brew gcc@8 --without-glibc
 brew gd
 brew gdbm
