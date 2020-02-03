@@ -2,30 +2,6 @@
 # tap repositories and their packages
 
 tap homebrew/core
-
-tap homebrew/cask
-
-tap No package 'bash-completion' found
-
-tap Package bash-completion was not found in the pkg-config search path.
-
-tap Perhaps you should add the directory containing `bash-completion.pc'
-
-tap bash: /yum: No such file or directory
-
-tap bash: no job control in this shell
-
-tap cjbassi/gotop
-
-tap linuxbrew/xorg
-
-tap rcmdnk/file
-
-tap rcmdnk/rcmdnkpac
-
-tap to the PKG_CONFIG_PATH environment variable
-
-# Other Homebrew packages
 brew adns
 brew autoconf
 brew autogen
@@ -34,7 +10,6 @@ brew bdw-gc
 brew berkeley-db
 brew binutils
 brew bison
-brew brew-file
 brew byacc
 brew bzip2
 brew cabal-install
@@ -94,7 +69,6 @@ brew libksba
 brew libmpc
 brew libnsl
 brew libpng
-brew libpthread-stubs
 brew libtasn1
 brew libtermkey
 brew libtiff
@@ -103,13 +77,7 @@ brew libtool
 brew libunistring
 brew libuv
 brew libvterm
-brew libx11
-brew libxau
-brew libxcb
-brew libxdmcp
-brew libxext
 brew libxml2
-brew libxrender
 brew libxslt
 brew libyaml
 brew linux-headers
@@ -142,7 +110,6 @@ brew readline
 brew ruby
 brew screen
 brew sl
-brew smenu
 brew sphinx-doc
 brew sqlite
 brew sshrc
@@ -151,13 +118,32 @@ brew unbound
 brew unibilium
 brew unzip
 brew util-linux
-brew util-macros
 brew vala
 brew vim
 brew wdiff
 brew webp
-brew xorgproto
-brew xtrans
 brew xz
 brew yank
 brew zlib
+
+tap homebrew/cask
+
+tap cjbassi/gotop
+
+tap linuxbrew/xorg
+brew libpthread-stubs
+brew libx11
+brew libxau
+brew libxcb
+brew libxdmcp
+brew libxext
+brew libxrender
+brew util-macros
+brew xorgproto
+brew xtrans
+
+tap rcmdnk/file
+brew brew-file
+
+tap rcmdnk/rcmdnkpac
+brew smenu
