@@ -112,7 +112,6 @@ brew screen
 brew sl
 brew sphinx-doc
 brew sqlite
-brew sshrc
 brew texinfo
 brew unbound
 brew unibilium
@@ -147,3 +146,6 @@ brew brew-file
 
 tap rcmdnk/rcmdnkpac
 brew smenu
+
+# Other Homebrew packages
+brew sshrc
