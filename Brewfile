@@ -3,6 +3,7 @@
 
 tap homebrew/core
 brew adns
+brew alsa-lib
 brew autoconf
 brew autogen
 brew automake
@@ -16,6 +17,7 @@ brew cabal-install
 brew cairo
 brew cmake
 brew coreutils
+brew cups
 brew curl
 brew docbook
 brew docbook-xsl
@@ -96,6 +98,7 @@ brew netpbm
 brew nettle
 brew ninja
 brew npth
+brew openjdk
 brew openssl@1.1
 brew p11-kit
 brew patchelf
@@ -106,6 +109,7 @@ brew pixman
 brew pkg-config
 brew python
 brew python@2
+brew python@3.8
 brew readline
 brew ruby
 brew screen
@@ -123,6 +127,7 @@ brew wdiff
 brew webp
 brew xz
 brew yank
+brew zip
 brew zlib
 
 tap homebrew/cask
@@ -130,13 +135,20 @@ tap homebrew/cask
 tap cjbassi/gotop
 
 tap linuxbrew/xorg
+brew libice
 brew libpthread-stubs
+brew libsm
 brew libx11
 brew libxau
 brew libxcb
 brew libxdmcp
 brew libxext
+brew libxfixes
+brew libxi
+brew libxrandr
 brew libxrender
+brew libxt
+brew libxtst
 brew util-macros
 brew xorgproto
 brew xtrans
