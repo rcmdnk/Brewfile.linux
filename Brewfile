@@ -109,7 +109,6 @@ brew perl
 brew pixman
 brew pkg-config
 brew python
-brew python@2
 brew python@3.8
 brew readline
 brew ruby
@@ -185,4 +184,5 @@ tap rcmdnk/rcmdnkpac
 brew smenu
 
 # Other Homebrew packages
+brew python@2
 brew sshrc
