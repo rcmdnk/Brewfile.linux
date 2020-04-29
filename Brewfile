@@ -27,6 +27,7 @@ brew flex
 brew fontconfig
 brew freetype
 brew gcc
+brew gcc@9
 brew gd
 brew gdbm
 brew gettext
@@ -107,11 +108,13 @@ brew perl
 brew pixman
 brew pkg-config
 brew python
+brew python@3.8
 brew rbenv
 brew readline
 brew ruby
 brew ruby-build
 brew screen
+brew shellcheck
 brew sl
 brew sphinx-doc
 brew sqlite
@@ -181,3 +184,6 @@ brew brew-file
 
 tap rcmdnk/rcmdnkpac
 brew smenu
+
+# Other Homebrew packages
+brew python@2
