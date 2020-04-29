@@ -26,11 +26,7 @@ brew expat
 brew flex
 brew fontconfig
 brew freetype
-brew gcc --without-glibc
-brew gcc@6 --without-glibc
-brew gcc@7 --without-glibc
-brew gcc@8 --without-glibc
-brew gcc@9
+brew gcc
 brew gd
 brew gdbm
 brew gettext
@@ -185,7 +181,3 @@ brew brew-file
 
 tap rcmdnk/rcmdnkpac
 brew smenu
-
-# Other Homebrew packages
-brew python@2
-brew sshrc
