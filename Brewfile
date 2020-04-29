@@ -30,6 +30,7 @@ brew gcc --without-glibc
 brew gcc@6 --without-glibc
 brew gcc@7 --without-glibc
 brew gcc@8 --without-glibc
+brew gcc@9
 brew gd
 brew gdbm
 brew gettext
@@ -90,6 +91,7 @@ brew luajit
 brew luarocks
 brew lzo
 brew m4
+brew make
 brew meson
 brew mpfr
 brew msgpack
@@ -109,9 +111,10 @@ brew perl
 brew pixman
 brew pkg-config
 brew python
-brew python@3.8
+brew rbenv
 brew readline
 brew ruby
+brew ruby-build
 brew screen
 brew sl
 brew sphinx-doc
