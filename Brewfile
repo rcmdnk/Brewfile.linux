@@ -7,6 +7,8 @@ brew alsa-lib
 brew autoconf
 brew autogen
 brew automake
+brew bash
+brew bash-completion@2
 brew bdw-gc
 brew berkeley-db
 brew binutils
@@ -21,11 +23,14 @@ brew cups
 brew curl
 brew docbook
 brew docbook-xsl
+brew docker
+brew docker-compose
 brew doxygen
 brew expat
 brew flex
 brew fontconfig
 brew freetype
+brew fribidi
 brew gcc
 brew gcc@9
 brew gd
@@ -36,6 +41,7 @@ brew ghostscript
 brew ghq
 brew git
 brew glib
+brew gmailctl
 brew gmp
 brew gnu-sed
 brew gnutls
@@ -44,12 +50,16 @@ brew gobject-introspection
 brew gotop
 brew gpatch
 brew gperf
+brew graphite2
 brew graphviz
 brew groff
 brew gts
 brew guile
+brew guile@2
+brew harfbuzz
 brew help2man
 brew hub
+brew icu4c
 brew intltool
 brew isl
 brew isl@0.18
@@ -97,17 +107,19 @@ brew neovim
 brew netpbm
 brew nettle
 brew ninja
+brew nkf
 brew npth
 brew openjdk
 brew openssl@1.1
 brew p11-kit
+brew pango
 brew patchelf
 brew pcre
 brew pcre2
 brew perl
 brew pixman
 brew pkg-config
-brew python
+brew poetry
 brew python@3.8
 brew rbenv
 brew readline
@@ -118,7 +130,6 @@ brew shellcheck
 brew sl
 brew sphinx-doc
 brew sqlite
-brew texinfo
 brew unbound
 brew unibilium
 brew unzip
@@ -179,11 +190,10 @@ brew xorg
 brew xorgproto
 brew xtrans
 
-tap rcmdnk/file
-brew brew-file
-
 tap rcmdnk/rcmdnkpac
+brew gmail_filter_manager
 brew smenu
 
 # Other Homebrew packages
+brew brew-file
 brew python@2
