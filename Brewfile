@@ -196,4 +196,3 @@ brew smenu
 
 # Other Homebrew packages
 brew brew-file
-brew python@2
