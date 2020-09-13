@@ -7,6 +7,7 @@ brew alsa-lib
 brew autoconf
 brew autogen
 brew automake
+brew avahi
 brew bash
 brew bash-completion@2
 brew bdw-gc
@@ -21,6 +22,7 @@ brew cmake
 brew coreutils
 brew cups
 brew curl
+brew dbus
 brew docbook
 brew docbook-xsl
 brew docker
@@ -66,10 +68,13 @@ brew isl@0.18
 brew jasper
 brew jemalloc
 brew jpeg
+brew jq
 brew json-c
+brew krb5
 brew libassuan
 brew libbsd
 brew libcap
+brew libdaemon
 brew libevent
 brew libffi
 brew libgcrypt
@@ -96,6 +101,7 @@ brew lua
 brew lua@5.1
 brew luajit
 brew luarocks
+brew lynx
 brew lzo
 brew m4
 brew make
@@ -108,7 +114,9 @@ brew netpbm
 brew nettle
 brew ninja
 brew nkf
+brew node
 brew npth
+brew oniguruma
 brew openjdk
 brew openssl@1.1
 brew p11-kit
@@ -140,6 +148,7 @@ brew wdiff
 brew webp
 brew xz
 brew yank
+brew yarn
 brew zip
 brew zlib
 
@@ -190,9 +199,9 @@ brew xorg
 brew xorgproto
 brew xtrans
 
+tap rcmdnk/file
+brew brew-file
+
 tap rcmdnk/rcmdnkpac
 brew gmail_filter_manager
 brew smenu
-
-# Other Homebrew packages
-brew brew-file
