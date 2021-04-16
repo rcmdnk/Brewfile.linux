@@ -98,6 +98,7 @@ brew libice
 brew libidn
 brew libidn2
 brew libksba
+brew libmd
 brew libmetalink
 brew libmpc
 brew libnsl
@@ -155,7 +156,9 @@ brew lm-sensors
 brew lua
 brew lua@5.1
 brew luajit
+brew luajit-openresty
 brew luarocks
+brew luv
 brew lynx
 brew lzo
 brew m4
@@ -164,6 +167,7 @@ brew mesa
 brew mesa-glu
 brew meson
 brew mitmproxy
+brew mpdecimal
 brew mpfr
 brew msgpack
 brew ncurses
