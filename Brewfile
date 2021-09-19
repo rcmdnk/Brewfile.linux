@@ -47,6 +47,7 @@ brew gmp
 brew gnu-getopt
 brew gnu-sed
 brew go
+brew go-md2man
 brew gobject-introspection
 brew gotop
 brew gpatch
