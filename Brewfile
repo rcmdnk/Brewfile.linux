@@ -5,9 +5,7 @@ tap homebrew/core
 brew adns
 brew alsa-lib
 brew autoconf
-brew autogen
 brew automake
-brew avahi
 brew bash
 brew bash-completion@2
 brew bdw-gc
@@ -25,22 +23,18 @@ brew coreutils
 brew cups
 brew curl
 brew dbus
-brew docbook
-brew docbook-xsl
 brew docker
 brew docker-compose
 brew doxygen
 brew expat
 brew flex
 brew fontconfig
-brew freeglut
 brew freetype
 brew fribidi
 brew gcc
 brew gcc@9
 brew gd
 brew gdbm
-brew gdk-pixbuf
 brew gettext
 brew gh
 brew ghc
@@ -52,28 +46,22 @@ brew gmailctl
 brew gmp
 brew gnu-getopt
 brew gnu-sed
-brew gnutls
 brew go
 brew gobject-introspection
 brew gotop
 brew gpatch
 brew gperf
 brew graphite2
-brew graphviz
-brew groff
-brew gts
 brew guile
-brew guile@2
 brew harfbuzz
 brew help2man
 brew hub
 brew icu4c
 brew intltool
 brew isl
-brew isl@0.18
 brew itstool
 brew jansson
-brew jasper
+brew jbig2dec
 brew jemalloc
 brew jpeg
 brew jq
@@ -105,7 +93,6 @@ brew libnsl
 brew libpciaccess
 brew libpng
 brew libpthread-stubs
-brew librsvg
 brew libsm
 brew libssh2
 brew libtasn1
@@ -116,7 +103,6 @@ brew libtool
 brew libunistring
 brew libuv
 brew libva
-brew libvdpau
 brew libvterm
 brew libx11
 brew libxau
@@ -150,11 +136,11 @@ brew libxvmc
 brew libxxf86dga
 brew libxxf86vm
 brew libyaml
-brew linux-headers
+brew linux-headers@4.4
+brew little-cms2
 brew llvm
 brew lm-sensors
 brew lua
-brew lua@5.1
 brew luajit
 brew luajit-openresty
 brew luarocks
@@ -163,8 +149,6 @@ brew lynx
 brew lzo
 brew m4
 brew make
-brew mesa
-brew mesa-glu
 brew meson
 brew mitmproxy
 brew mpdecimal
@@ -172,7 +156,6 @@ brew mpfr
 brew msgpack
 brew ncurses
 brew neovim
-brew netpbm
 brew nettle
 brew nghttp2
 brew ninja
@@ -181,6 +164,7 @@ brew node
 brew npth
 brew oniguruma
 brew openjdk
+brew openjpeg
 brew openldap
 brew openssl@1.1
 brew p11-kit
@@ -194,27 +178,26 @@ brew pkg-config
 brew poetry
 brew protobuf
 brew psutils
-brew python@3.8
 brew python@3.9
 brew rbenv
 brew readline
 brew rtmpdump
 brew ruby
 brew ruby-build
-brew screen
-brew shared-mime-info
 brew shellcheck
+brew six
 brew sl
 brew sphinx-doc
 brew sqlite
 brew tcl-tk
+brew travis
+brew tree-sitter
 brew uchardet
 brew unbound
 brew unibilium
 brew unzip
 brew util-linux
 brew util-macros
-brew vala
 brew vim
 brew w3m
 brew wayland
@@ -223,7 +206,6 @@ brew wdiff
 brew webp
 brew xdpyinfo
 brew xinput
-brew xmlto
 brew xorgproto
 brew xtrans
 brew xz
@@ -244,7 +226,6 @@ tap homebrew/cask
 tap cjbassi/gotop
 
 tap linuxbrew/xorg
-brew libomxil-bellagio
 
 tap rcmdnk/file
 brew brew-file
@@ -252,6 +233,3 @@ brew brew-file
 tap rcmdnk/rcmdnkpac
 brew gmail_filter_manager
 brew smenu
-
-# Other Homebrew packages
-brew libva-internal
