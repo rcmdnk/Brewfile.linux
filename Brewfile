@@ -4,6 +4,7 @@
 tap homebrew/core
 brew adns
 brew alsa-lib
+brew attr
 brew autoconf
 brew automake
 brew bash
@@ -16,6 +17,7 @@ brew brotli
 brew byacc
 brew bzip2
 brew c-ares
+brew ca-certificates
 brew cabal-install
 brew cairo
 brew cmake
@@ -26,6 +28,7 @@ brew dbus
 brew docker
 brew docker-compose
 brew doxygen
+brew elfutils
 brew expat
 brew flex
 brew fontconfig
@@ -90,6 +93,7 @@ brew libksba
 brew libmd
 brew libmetalink
 brew libmpc
+brew libnghttp2
 brew libnsl
 brew libpciaccess
 brew libpng
@@ -179,6 +183,7 @@ brew pkg-config
 brew poetry
 brew protobuf
 brew psutils
+brew python@3.10
 brew python@3.9
 brew rbenv
 brew readline
